@@ -1,2 +1,3 @@
 # commentario
-print("hello word")
+nombre = "abraham"
+print(nombre)
